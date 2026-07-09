@@ -1,2 +1,2 @@
 # Security Policy
-Initial policy
+Updated policy
